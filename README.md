@@ -34,8 +34,13 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 References
 
 https://vuejs.org/v2/guide/
+
 https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176
+
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
 https://msdn.microsoft.com/en-us/library/hh848246.aspx
+
 https://medium.com/@Hemantisme/moving-from-angular-to-vue-a-vuetiful-journey-c29842ab2039
+
 https://jsfiddle.net/chrisvfritz/50wL7mdz/
